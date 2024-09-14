@@ -1,0 +1,20 @@
+.btn-delete {
+    background-color: #fff;
+    cursor: pointer;
+    position: relative;
+    bottom: 10%;
+    left: 19px;
+    border-radius: none;
+    border: none;
+}
+
+.icon {
+    width: 14px;
+
+}
+
+.sity-name {
+    margin-bottom: 10px;
+    padding: 5px 5px;
+}   
+

@@ -1,0 +1,51 @@
+.app-list {
+    list-style-type: none;
+    width: 511px;
+    min-height: 50px;
+    border-radius: 10px;
+    padding: 0;
+    margin-top: 5px;
+    display: flex;
+    flex-wrap: wrap
+}
+
+.list-group-item {
+    display: flex;
+    border-radius: 5px;
+    border: 1px solid black;
+    width: 235px;
+    min-height:200px;
+    margin-right: 20px;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    padding: 10px 10px;
+    position: relative;
+
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    width: 511px;
+    margin-top: 40px;
+}
+
+.list-group-date {
+    margin-right: 10px;
+}
+
+.noteUpdate {
+    display: flex;
+}
+
+.noteTitle {
+    margin-right: 15px;
+}
+
+.btn-update {
+    background-color: #fff;
+  cursor: pointer;
+
+  border-radius: none;
+  border: none;
+}
